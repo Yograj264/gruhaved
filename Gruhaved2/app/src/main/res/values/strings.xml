@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">gruhaved</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="select" id="AddressID">Delivery Address</string>
+    <string-array name="status">
+        <item id="pending">Payment Pending</item>
+        <item id="Done">Payment Done</item>
+
+    </string-array>
+    <string-array name="GheeQty">
+        <item id="250gm">250 Gm</item>
+        <item id="500gm">500 Gm</item>
+        <item id="1kg">1 KG</item>
+        <item id="5kg">5 Kg</item>
+
+
+    </string-array>
+    <string-array name="PaneerQty">
+        <item id="250gm">250 Gm</item>
+        <item id="500gm">500 Gm</item>
+        <item id="1kg">1 KG</item>
+        <item id="5kg">5 Kg</item>
+
+    </string-array>
+    <string-array name="KhoyaQty">
+        <item id="250gm">250 Gm</item>
+        <item id="500gm">500 Gm</item>
+        <item id="1kg">1 KG</item>
+        <item id="5kg">5 Kg</item>
+    </string-array>
+    <string-array name="Unit">
+        <item id="250gm">250 Gm</item>
+        <item id="500gm">500 Gm</item>
+        <item id="1kg">1 KG</item>
+        <item id="5kg">5 Kg</item>
+
+
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
+
